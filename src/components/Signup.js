@@ -26,7 +26,7 @@ const Signup = () => {
               <StepLabel>User Form</StepLabel>
             </Step>
             <Step>
-              <StepLabel>Add</StepLabel>
+              <StepLabel>Address Form</StepLabel>
             </Step>
             <Step>
               <StepLabel>DOB</StepLabel>
