@@ -1,1 +1,41 @@
 
+ .MuiInputBase-root {
+  margin: 5px;
+  background-color: white;
+ }
+
+.my {
+  .MuiTextField-root {
+    width: 50%;
+   }
+
+}
+
+.my2 {
+  .MuiTextField-root {
+    width: 25%;
+   }
+   
+}
+
+.user-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .MuiTextField-root {
+    width: 25%;
+  
+   }
+
+}
+
+.pri-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+
+  
+}
+  
+  
